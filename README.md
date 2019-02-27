@@ -7,7 +7,7 @@
 * 第一堂 (2019/02/26)：
 > * 課程內容：Java 簡介與環境變數設定、安裝 JDK 與 IDE、第一支程式「Hello World」
 > * 資源連結：
-> * [Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/05/java-basic-aboutjava.html)
-> * Netbeans 偏好設定
-> * 程式範例：[Hello.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Hello.java)
+>> * [Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/05/java-basic-aboutjava.html)
+>> * Netbeans 偏好設定
+>> * 程式範例：[Hello.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Hello.java)
 ---
