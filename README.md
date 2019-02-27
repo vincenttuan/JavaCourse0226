@@ -6,6 +6,6 @@
 
 ---
 * 日期：2019/02/26
->> 課程內容：[Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/05/java-basic-aboutjava.html)、IDE 安裝、[「Hello World」與「BMI」](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Hello.java)
+> 課程內容：[Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/05/java-basic-aboutjava.html)、IDE 安裝、[「Hello World」與「BMI」](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Hello.java)
 
 ---
