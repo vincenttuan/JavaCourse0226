@@ -24,7 +24,7 @@
 >>> 圓面積的計算（Math 類別的使用）
 >>> printf vs println <br />
 >> 3. [CalcNumber.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CalcNumber.java)
->>> 二進位、十六進位、科學記號
+>>> 二進位、十六進位、科學記號 <br />
 >>> 八大基本型別 <br />
 >>> 字元編碼：字元與數字的關係、UTF-8 <br />
 >>> 邏輯運算子『!』 <br />
