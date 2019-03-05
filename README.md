@@ -17,7 +17,7 @@
 > * 課程內容：註解、八大基本型別、printf、二進位、十六進位、科學記號、字元編碼。
 > * 資源連結：
 >> 1. [CalcBMI.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CalcBMI.java)
->>> BMI 的計算（Math 類別的使用）
+>>> BMI 的計算（Math 類別的使用）<\br>
 >>> 註解：文件註解、區塊註解、單行註解
 >>> printf vs println
 >> 2. [CircleArea.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CircleArea.java)
