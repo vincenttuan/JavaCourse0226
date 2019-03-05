@@ -10,4 +10,12 @@
 >> 1. [Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/05/java-basic-aboutjava.html)
 >> 2. [Netbeans 偏好設定](https://codingbydumbbell.blogspot.com/2019/02/tools-netbeans.html)
 >> 3. [Hello.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Hello.java)
+>>> Hello World & 簡單的 BMI 計算
+---
+* 第二堂 (2019/03/05)：
+> * 課程內容：八大基本型別、printf、二進位、八進位、十六進位、字元編碼。
+> * 資源連結：
+>> 1. [CalcBMI.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CalcBMI.java)
+>> 2. [Netbeans 偏好設定](https://codingbydumbbell.blogspot.com/2019/02/tools-netbeans.html)
+>> 3. [Hello.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Hello.java)
 ---
