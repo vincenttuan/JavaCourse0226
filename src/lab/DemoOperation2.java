@@ -24,5 +24,14 @@ public class DemoOperation2 {
         int add = 2;
         value += add; //value = value + add;
         System.out.println("value = " + value);
+        
+        // 位元運算子
+        int e = 5 ^ 3;
+        System.out.println(e);
+        
+        int f = ~13; // 公式 = -(n)-1
+        System.out.println(f);
+        
+                
     }
 }
