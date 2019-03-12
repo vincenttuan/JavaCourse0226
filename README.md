@@ -43,3 +43,16 @@
 >> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/07/java-basic.html)
 >> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/11/java-basic-short-circuit-andor-bitwise.html)
 ---
+* 第三堂 (2019/03/12)：
+> * 課程內容：Scanner 類別的使用、程式碼流程控制：if-else、switch-case、三元運算子。
+> * 資源連結：
+>> 1. [InputTest.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/InputTest.java)
+>> 2. [InputTest2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/InputTest2.java)
+>>> Scanner 類別的使用 <br />
+>> 3. [TestBMI.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/TestBMI.java)
+>> 4. [Checkodd.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Checkodd.java)
+>> 5. [CheckSex.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckSex.java)
+>> 6. [CheckLevel.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel.java)
+>> 7. [CheckLevel2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel2.java)
+>>> 程式碼流程控制：if-else、switch-case、三元運算子 <br />
+---
