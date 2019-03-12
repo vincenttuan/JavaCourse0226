@@ -28,4 +28,18 @@
 >>> 八大基本型別 <br />
 >>> 字元編碼：字元與數字的關係、UTF-8 <br />
 >>> 邏輯運算子『!』 <br />
+>> 4. [淺談字元編碼](https://codingbydumbbell.blogspot.com/2019/03/java-basic.html)
+---
+* 第三堂 (2019/03/07)：
+> * 課程內容：運算子的介紹。
+> * 資源連結：
+>> 1. [DemoMod.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/DemoMod.java)
+>>> Math.random() 的使用 <br />
+>>> 運算子：mod <br />
+>> 2. [DemoOperation.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/DemoOperation.java)
+>>> 運算子：遞增遞減、前序後序
+>> 3. [DemoOperation2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/DemoOperation2.java)
+>>> 運算子：條件運算子、位移運算子、補數運算子、位元運算子<br />
+>> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/07/java-basic.html)
+>> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/11/java-basic-short-circuit-andor-bitwise.html)
 ---
