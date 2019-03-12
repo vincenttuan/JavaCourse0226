@@ -20,8 +20,10 @@ public class TestBMI {
         // 檢驗 bmi
         if(bmi >= 18 && bmi < 23) {
             System.out.println("正常");
+        } else if(bmi >= 23) {
+            System.out.println("稍胖");
         } else {
-            System.out.println("不正常");
+            System.out.println("過瘦");
         }
         
     }
