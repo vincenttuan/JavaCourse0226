@@ -1,6 +1,6 @@
 # 桃認 JavaSE 8 認證課程
 #### 課程講師：[段維瀚](https://github.com/vincenttuan)、協助整理：[Rick](https://github.com/rickbsr)
-
+#### FB粉絲專頁：[猛虎出柙 - 段老師](https://www.facebook.com/%E7%8C%9B%E8%99%8E%E5%87%BA%E6%9F%99-%E6%AE%B5%E8%80%81%E5%B8%AB-2242200042711015/?modal=admin_todo_tour)
 * 課程簡介：
 > 課程時間為每週二四的晚上 6:40 到 9:40，總共分為兩個階段，依序為 Java 先修基礎程式設計（2019/02/26 - 03/14）、Java OCP JP 程式設計師認證班（2019/03/26 - 06/20）。
 ---
