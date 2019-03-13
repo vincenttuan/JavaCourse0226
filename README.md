@@ -43,7 +43,7 @@
 >> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/07/java-basic.html)
 >> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/11/java-basic-short-circuit-andor-bitwise.html)
 ---
-* 第三堂 (2019/03/12)：
+* 第四堂 (2019/03/12)：
 > * 課程內容：Scanner 類別的使用、程式碼流程控制：if-else、switch-case、三元運算子。
 > * 資源連結：
 >> 1. [InputTest.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/InputTest.java)
