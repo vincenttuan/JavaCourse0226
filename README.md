@@ -50,9 +50,10 @@
 >> 2. [InputTest2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/InputTest2.java)
 >>> Scanner 類別的使用 <br />
 >> 3. [TestBMI.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/TestBMI.java)
+>>> 程式碼流程控制：if-else、switch-case、三元運算子 <br />
 >> 4. [Checkodd.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Checkodd.java)
 >> 5. [CheckSex.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckSex.java)
 >> 6. [CheckLevel.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel.java)
 >> 7. [CheckLevel2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel2.java)
->>> 程式碼流程控制：if-else、switch-case、三元運算子 <br />
+
 ---
