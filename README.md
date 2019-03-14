@@ -1,6 +1,6 @@
 # 桃認 JavaSE 8 認證課程
 #### 課程講師：[段維瀚](https://github.com/vincenttuan)、協助整理：[Rick](https://github.com/rickbsr)
-
+#### FB粉絲專頁：[猛虎出柙 - 段老師](https://www.facebook.com/%E7%8C%9B%E8%99%8E%E5%87%BA%E6%9F%99-%E6%AE%B5%E8%80%81%E5%B8%AB-2242200042711015/?modal=admin_todo_tour)
 * 課程簡介：
 > 課程時間為每週二四的晚上 6:40 到 9:40，總共分為兩個階段，依序為 Java 先修基礎程式設計（2019/02/26 - 03/14）、Java OCP JP 程式設計師認證班（2019/03/26 - 06/20）。
 ---
@@ -42,4 +42,18 @@
 >>> 運算子：條件運算子、位移運算子、補數運算子、位元運算子<br />
 >> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/07/java-basic.html)
 >> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/11/java-basic-short-circuit-andor-bitwise.html)
+---
+* 第四堂 (2019/03/12)：
+> * 課程內容：Scanner 類別的使用、程式碼流程控制：if-else、switch-case、三元運算子。
+> * 資源連結：
+>> 1. [InputTest.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/InputTest.java)
+>> 2. [InputTest2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/InputTest2.java)
+>>> Scanner 類別的使用 <br />
+>> 3. [TestBMI.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/TestBMI.java)
+>>> 程式碼流程控制：if-else、switch-case、三元運算子 <br />
+>> 4. [Checkodd.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Checkodd.java)
+>> 5. [CheckSex.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckSex.java)
+>> 6. [CheckLevel.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel.java)
+>> 7. [CheckLevel2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel2.java)
+
 ---
