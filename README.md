@@ -55,5 +55,13 @@
 >> 5. [CheckSex.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckSex.java)
 >> 6. [CheckLevel.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel.java)
 >> 7. [CheckLevel2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel2.java)
-
+---
+* 第五堂 (2019/03/14)：
+> * 課程內容：程式碼流程控制：while、do-while、for。
+> * 資源連結：
+>> 1. [WhileDemo.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileDemo.java)
+>> 2. [WhileDemo2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileDemo2.java)
+>> 3. [WhileGame.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileGame.java)
+>> 4. [WhileNinetable.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileNinetable.java)
+>>> 程式碼流程控制：while、do-while、for <br />
 ---
