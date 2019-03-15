@@ -63,5 +63,5 @@
 >> 2. [WhileDemo2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileDemo2.java)
 >> 3. [WhileGame.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileGame.java)
 >> 4. [WhileNinetable.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileNinetable.java)
->>> 程式碼流程控制：while、do-while、for <br />
+>>> 程式碼流程控制：while、do-while<br />
 ---
