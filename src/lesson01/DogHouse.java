@@ -11,8 +11,13 @@ public class DogHouse {
         dog2.kind = "柴犬";
         dog2.age = 2;
         
+        dog1.color = "紅";
+        
         System.out.printf("我有一隻%s色%d歲的%s\n", dog1.color, dog1.age, dog1.kind);
         System.out.printf("我有一隻%s色%d歲的%s\n", dog2.color, dog2.age, dog2.kind);
+        
+        System.out.printf("我有一隻%s色%d歲的%s\n", Dog.color, dog1.age, dog1.kind);
+        System.out.printf("我有一隻%s色%d歲的%s\n", Dog.color, dog2.age, dog2.kind);
         
     }
 }
