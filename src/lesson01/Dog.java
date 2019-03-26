@@ -11,8 +11,8 @@ public class Dog {
         System.out.println("會叫");
     }
     
-    void eat() { // 生存技巧
-        System.out.println("骨頭");
+    void eat(Food food) { // 生存技巧
+        System.out.printf("%s喜歡吃%s\n", kind, food.name);
     }
     
 }
