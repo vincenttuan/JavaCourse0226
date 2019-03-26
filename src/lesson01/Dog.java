@@ -1,0 +1,18 @@
+package lesson01;
+
+public class Dog {
+    // 定義屬性
+    String kind; // 品種
+    int age; // 年齡
+    String color; // 毛色
+    
+    // 定義方法
+    void skill() { // 特殊技巧
+        System.out.println("會叫");
+    }
+    
+    void eat() { // 生存技巧
+        System.out.println("骨頭");
+    }
+    
+}
