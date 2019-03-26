@@ -15,4 +15,9 @@ public class Dog {
         System.out.printf("%s喜歡吃%s\n", kind, food.name);
     }
     
+    int calc(int x, int y) {
+        int sum = x + y;
+        return sum;
+    }
+    
 }

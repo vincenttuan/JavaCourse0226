@@ -22,6 +22,9 @@ public class Home {
         
         dog1.eat(food1);
         dog1.skill();
+        int sum = dog1.calc(10, 20);
+        System.out.println(sum);
+        System.out.println(dog1.calc(10, 20));
         
         car1.speed(200);
         car1.getInto(dog1);
