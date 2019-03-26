@@ -4,7 +4,7 @@ public class Dog {
     // 定義屬性
     String kind; // 品種
     int age; // 年齡
-    String color; // 毛色
+    String color = "黑"; // 毛色
     
     // 定義方法
     void skill() { // 特殊技巧
