@@ -80,3 +80,4 @@
 >>> 物件導向的基礎觀念、自定義參考型別。<br />
 >> 6. [Check.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson01/Check.java)
 >>> 程式碼流程控制：return。<br />
+---
