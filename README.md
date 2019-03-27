@@ -4,7 +4,7 @@
 * 課程簡介：
 > 課程時間為每週二四的晚上 6:40 到 9:40，總共分為兩個階段，依序為 Java 先修基礎程式設計（2019/02/26 - 03/14）、Java OCP JP 程式設計師認證班（2019/03/26 - 06/20）。
 ---
-* 第一堂 (2019/02/26)：
+* 第一堂 (2019/02/26)：Java 先修基礎程式設計
 > * 課程內容：Java 簡介與環境變數設定、安裝 JDK 與 IDE、第一支程式「Hello World」。
 > * 資源連結：
 >> 1. [Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/05/java-basic-aboutjava.html)
@@ -13,7 +13,7 @@
 >>> 第一支程式「Hello World」 <br />
 >>> 簡單的 BMI 計算（四則運算子） <br />
 ---
-* 第二堂 (2019/03/05)：
+* 第二堂 (2019/03/05)：Java 先修基礎程式設計
 > * 課程內容：註解、八大基本型別、printf、二進位、十六進位、科學記號、字元編碼。
 > * 資源連結：
 >> 1. [CalcBMI.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CalcBMI.java)
@@ -30,7 +30,7 @@
 >>> 邏輯運算子『!』 <br />
 >> 4. [淺談字元編碼](https://codingbydumbbell.blogspot.com/2019/03/java-basic.html)
 ---
-* 第三堂 (2019/03/07)：
+* 第三堂 (2019/03/07)：Java 先修基礎程式設計
 > * 課程內容：運算子的介紹。
 > * 資源連結：
 >> 1. [DemoMod.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/DemoMod.java)
@@ -43,7 +43,7 @@
 >> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/07/java-basic.html)
 >> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/11/java-basic-short-circuit-andor-bitwise.html)
 ---
-* 第四堂 (2019/03/12)：
+* 第四堂 (2019/03/12)：Java 先修基礎程式設計
 > * 課程內容：Scanner 類別的使用、程式碼流程控制：if-else、switch-case、三元運算子。
 > * 資源連結：
 >> 1. [InputTest.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/InputTest.java)
@@ -56,12 +56,27 @@
 >> 6. [CheckLevel.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel.java)
 >> 7. [CheckLevel2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/CheckLevel2.java)
 ---
-* 第五堂 (2019/03/14)：
+* 第五堂 (2019/03/14)：Java 先修基礎程式設計
 > * 課程內容：程式碼流程控制：while、do-while、for。
 > * 資源連結：
 >> 1. [WhileDemo.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileDemo.java)
 >> 2. [WhileDemo2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileDemo2.java)
 >> 3. [WhileGame.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileGame.java)
 >> 4. [WhileNinetable.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/WhileNinetable.java)
+>> 5. [DoWhileGame.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/DoWhileGame.java)
 >>> 程式碼流程控制：while、do-while<br />
+>> 1. [ForLoopDemo.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/ForLoopDemo.java)
+>> 2. [ForLoopNinetable.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/ForLoopNinetable.java)
+>>> 程式碼流程控制：for />
 ---
+* 第一堂 (2019/03/26)：Java OCP JP 程式設計師認證班
+> * 課程內容：物件導向的基礎觀念、自定義參考型別。
+> * 資源連結：
+>> 1. [Food.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson01/Food.java)
+>> 2. [Car.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson01/Car.java)
+>> 3. [Home.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson01/Home.java)
+>> 4. [Dog.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson01/Dog.java)
+>> 5. [DogHouse.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson01/DogHouse.java)
+>>> 物件導向的基礎觀念、自定義參考型別。<br />
+>> 5. [Check.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson01/Check.java)
+>>> 程式碼流程控制：return。<br />
