@@ -26,7 +26,8 @@ public class ArrayTest2 {
         System.out.println(max);
         System.out.println("---------");
         // java 8 取最大值
-        System.out.println(Arrays.stream(x).max().getAsInt());
+        max = Arrays.stream(x).max().getAsInt();
+        System.out.println(max);
     }
     
 }
