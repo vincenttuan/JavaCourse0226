@@ -3,7 +3,7 @@ package petstore.land;
 import petstore.sky.Bird;
 import petstore.water.Fish;
 
-public class Cat {
+public class Cat extends Bird {
     public String name;
     public void play() {
         System.out.println("玩球");
@@ -19,10 +19,9 @@ public class Cat {
         System.out.print(fish.name + "喜歡");
         fish.play();
         
-        Bird bird = new Bird();
-        bird.name = "白文鳥";
-        System.out.print(bird.name + "喜歡");
-        bird.play();
+        super.name = "白文鳥";
+        System.out.print(super.name + "喜歡");
+        super.play();
         
         
     }
