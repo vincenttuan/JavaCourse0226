@@ -82,5 +82,17 @@
 >>> 程式碼流程控制：return。<br />
 ---
 * 第二堂 (2019/03/28)：Java OCP JP 程式設計師認證班
-> * 課程內容：物件導向的基礎觀念、轉型、陣列。
+> * 課程內容：物件導向的基礎觀念、自定義參考型別、物件成員、類別成員、static、存取權限修飾字、陣列。
 > * 資源連結：
+>> 1. [Case1](https://github.com/vincenttuan/JavaCourse0226/tree/master/src/lesson02/case1)
+>> 2. [Case2](https://github.com/vincenttuan/JavaCourse0226/tree/master/src/lesson02/case2)
+>> 3. [Case3](https://github.com/vincenttuan/JavaCourse0226/tree/master/src/lesson02/case3)
+>>> 物件導向的基礎觀念、自定義參考型別、物件成員、類別成員、static。<br />
+>> 4. [petstore](https://github.com/vincenttuan/JavaCourse0226/tree/master/src/petstore)
+>> 5. [存取權限修飾詞](https://codingbydumbbell.blogspot.com/2018/05/java-basic.html)
+>>> 存取權限修飾字。<br />
+>> 6. [ArrayTest.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson02/ArrayTest.java)
+>> 7. [ArrayTest2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson02/ArrayTest2.java)
+>>> 陣列。<br />
+>> 8. [Casting.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson02/Casting.java)
+>>> 強制轉型。<br />
