@@ -40,7 +40,7 @@
 >>> 運算子：遞增遞減、前序後序
 >> 3. [DemoOperation2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/DemoOperation2.java)
 >>> 運算子：條件運算子、位移運算子、補數運算子、位元運算子<br />
->> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/07/java-basic.html)
+>> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/12/java-basic_29.html)
 >> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/12/java-basic-short-circuit-andor-bitwise.html)
 ---
 * 第四堂 (2019/03/12)：Java 先修基礎程式設計
