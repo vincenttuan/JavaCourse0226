@@ -7,7 +7,7 @@
 * 第一堂 (2019/02/26)：Java 先修基礎程式設計
 > * 課程內容：Java 簡介與環境變數設定、安裝 JDK 與 IDE、第一支程式「Hello World」。
 > * 資源連結：
->> 1. [Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/05/java-basic-aboutjava.html)
+>> 1. [Java 簡介與環境變數設定](https://codingbydumbbell.blogspot.com/2018/12/java-basic-aboutjava.html)
 >> 2. [Netbeans 偏好設定](https://codingbydumbbell.blogspot.com/2019/02/tools-netbeans.html)
 >> 3. [Hello.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/Hello.java)
 >>> 第一支程式「Hello World」 <br />
@@ -41,7 +41,7 @@
 >> 3. [DemoOperation2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lab/DemoOperation2.java)
 >>> 運算子：條件運算子、位移運算子、補數運算子、位元運算子<br />
 >> 4. [聊聊運算子](https://codingbydumbbell.blogspot.com/2018/07/java-basic.html)
->> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/11/java-basic-short-circuit-andor-bitwise.html)
+>> 5. [Short-circuit AND/OR 與 Bitwise AND/OR 的差異](https://codingbydumbbell.blogspot.com/2018/12/java-basic-short-circuit-andor-bitwise.html)
 ---
 * 第四堂 (2019/03/12)：Java 先修基礎程式設計
 > * 課程內容：Scanner 類別的使用、程式碼流程控制：if-else、switch-case、三元運算子。
@@ -89,7 +89,7 @@
 >> 3. [Case3](https://github.com/vincenttuan/JavaCourse0226/tree/master/src/lesson02/case3)
 >>> 物件導向的基礎觀念、自定義參考型別、物件成員、類別成員、static。<br />
 >> 4. [petstore](https://github.com/vincenttuan/JavaCourse0226/tree/master/src/petstore)
->> 5. [存取權限修飾詞](https://codingbydumbbell.blogspot.com/2018/05/java-basic.html)
+>> 5. [存取權限修飾詞](https://codingbydumbbell.blogspot.com/2018/12/java-basic.html)
 >>> 存取權限修飾字。<br />
 >> 6. [ArrayTest.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson02/ArrayTest.java)
 >> 7. [ArrayTest2.java](https://github.com/vincenttuan/JavaCourse0226/blob/master/src/lesson02/ArrayTest2.java)
