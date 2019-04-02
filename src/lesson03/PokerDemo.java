@@ -1,22 +1,24 @@
 package lesson03;
 
 import java.util.Random;
+import static java.lang.System.out;
+
 public class PokerDemo {
     public static void main(String[] args) {
         String[] pokers = {"A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"};
         print(pokers);
         shuffle(pokers, 10); // 洗牌
         print(pokers);
-        System.out.println("score = " + getBaccaratScore(pokers[0], pokers[1]));
-        System.out.println("score = " + getSumScore(pokers[0], pokers[1]));
+        out.println("score = " + getBaccaratScore(pokers[0], pokers[1]));
+        out.println("score = " + getSumScore(pokers[0], pokers[1]));
     }
     
     // 列印
     public static void print(String[] pokers) {
         for(int i=0;i<pokers.length;i++) {
-            System.out.print(pokers[i] + " ");
+            out.print(pokers[i] + " ");
         }
-        System.out.println();
+        out.println();
     }
     
     // 洗單次
