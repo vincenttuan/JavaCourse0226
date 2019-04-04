@@ -16,17 +16,17 @@ public class StringBuilderDemo2 {
         System.out.println(s);
     }
     
-    public static void add(StringBuilder sb) {
-        sb.append("8");
+    public static void add(StringBuilder sb2) {
+        sb2.append("8");
     }
     
-    public static void add(String s) {
-        s = s.concat("8");
+    public static void add(String s2) {
+        s2 = s2.concat("8");
     }
     
-    public static String addAndGet(String s) {
-        s = s.concat("8");
-        return s;
+    public static String addAndGet(String s2) {
+        s2 = s2.concat("8");
+        return s2;
     }
     
     
