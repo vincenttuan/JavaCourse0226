@@ -1,8 +1,7 @@
-package lab;
+package lesson06;
 
-public class Test {
-
-    public static void main(String[] args) {
+public class TWII {
+    public static String[][] getData() {
         //"證券代號","證券名稱","殖利率(%)","股利年度","本益比","股價淨值比","財報年/季"
         String[][] data = {
             {"1101", "台泥", "9.51", "107", "10.54", "1.23", "107/4"},
@@ -936,5 +935,6 @@ public class Test {
             {"9955", "佳龍", "0.00", "106", "-", "0.78", "107/4"},
             {"9958", "世紀鋼", "0.41", "106", "462.50", "4.19", "107/4"},
         };
+        return data;
     }
 }
