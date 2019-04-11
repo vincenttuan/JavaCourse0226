@@ -1,5 +1,7 @@
 package lesson05;
 
+import java.awt.Component;
+import javax.swing.Icon;
 import javax.swing.JOptionPane;
 
 public class WrapperTest5 {
