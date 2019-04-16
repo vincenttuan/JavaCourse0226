@@ -25,8 +25,15 @@ public class HasSet_Demo {
         Iterator iter = set.iterator();
         while (iter.hasNext()) {
             Object data = iter.next();
-            System.out.println(data);
+            System.out.println(data + ":" +data.getClass());
+//            if(data.getClass().toString().contains("String")) {
+//                iter.remove();
+//            }
+            if(data instanceof String) {
+                iter.remove();
+            }
         }
         
+        System.out.println(set);
     }
 }
