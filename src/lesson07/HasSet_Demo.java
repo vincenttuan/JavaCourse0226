@@ -1,6 +1,7 @@
 package lesson07;
 
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class HasSet_Demo {
     public static void main(String[] args) {
@@ -14,6 +15,18 @@ public class HasSet_Demo {
         set.add(100); // Integer
         
         System.out.println(set);
+        
+        // for-loop 走訪 (可刪除元素)
+        for(Object data : set) {
+            System.out.println(data);
+        }
+        
+        // Iterator 走訪 (可刪除元素)
+        Iterator iter = set.iterator();
+        while (iter.hasNext()) {
+            Object data = iter.next();
+            System.out.println(data);
+        }
         
     }
 }
