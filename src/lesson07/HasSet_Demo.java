@@ -21,19 +21,19 @@ public class HasSet_Demo {
             System.out.println(data);
         }
         
-        // Iterator 走訪 (可刪除元素)
+        // Iterator 走訪1 (可刪除元素)
         Iterator iter = set.iterator();
         while (iter.hasNext()) {
             Object data = iter.next();
             System.out.println(data + ":" +data.getClass());
-//            if(data.getClass().toString().contains("String")) {
-//                iter.remove();
-//            }
             if(data instanceof String) {
                 iter.remove();
             }
         }
-        
         System.out.println(set);
+        
+        // Iterator 走訪2 (不可刪除元素)
+        set.forEach(n -> System.out.println(n));
+        set.forEach(System.out::println);
     }
 }
