@@ -13,7 +13,6 @@ public class HasSet_Demo {
         set.add("中文"); // String
         set.add(100); // Integer
         set.add(100); // Integer
-        
         System.out.println(set);
         
         // for-loop 走訪 (可刪除元素)
