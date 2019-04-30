@@ -9,6 +9,7 @@ public class BMI {
     public BMI(double h, double w) {
         this.h = h;
         this.w = w;
+        bmi = calcBMI();
     }
     
     // 計算 bmi
@@ -24,4 +25,11 @@ public class BMI {
         }
         System.out.printf("%.2f\n", bmi);
     }
+
+    @Override
+    public String toString() {
+        return "BMI{" + "h=" + h + ", w=" + w + ", bmi=" + bmi + '}';
+    }
+    
+    
 }

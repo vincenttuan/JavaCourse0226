@@ -8,5 +8,8 @@ public class BMITest {
         BMI bmi2 = new BMI(180, 70);
         bmi2.printBMI();
         
+        BMI bmi3 = new BMI(160, 50);
+        bmi3.printBMI();
+        
     }
 }
