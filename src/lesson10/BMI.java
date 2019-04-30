@@ -3,7 +3,7 @@ package lesson10;
 public class BMI {
     public double h;
     public double w;
-    private double bmi;
+    public double bmi;
     
     // 建構子 (new 的時候會呼叫)
     public BMI(double h, double w) {
