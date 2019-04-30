@@ -14,5 +14,6 @@ public class Stack_Demo {
             System.out.println("取出 : " + stack.pop());
         }
         System.out.println(stack);
+        
     }
 }
