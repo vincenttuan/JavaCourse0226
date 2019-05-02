@@ -5,4 +5,8 @@ public class Penguin extends Bird {
     public void move() {
         System.out.println("游泳");
     }
+    
+    public void skill() {
+        System.out.println("抓魚");
+    }
 }
