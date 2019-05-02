@@ -1,9 +1,11 @@
 package lesson10;
 
 import java.util.ArrayList;
+import java.util.Map;
 import java.util.OptionalDouble;
 import java.util.Random;
 import static java.util.stream.Collectors.averagingDouble;
+import static java.util.stream.Collectors.averagingInt;
 import static java.util.stream.Collectors.groupingBy;
 
 public class Company2 {
@@ -32,7 +34,7 @@ public class Company2 {
         empList.add(emp7);
         System.out.println(empList);
         
-        //empList.stream().collect(groupingBy(Emp::getDept, averagingInt(Emp::getSalary)))
+        //Map map = empList.stream().collect(groupingBy(Emp::getDept, averagingInt(Emp::getSalary)));
         System.out.println(
            empList.stream().collect(groupingBy(Emp::getDept, averagingDouble(Emp::getSalary)))
         );
