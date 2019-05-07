@@ -6,6 +6,7 @@ public class Ostrich extends Bird {
 
     public Ostrich() {
         setKind("鴕鳥");
+        ++count;
     }
 
     public void move() {

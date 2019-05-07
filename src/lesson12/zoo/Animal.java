@@ -6,10 +6,12 @@ public class Animal {
     private static int count;
 
     public Animal() {
+        ++count;
     }
 
     public Animal(int legs) {
         this.legs = legs;
+        ++count;
     }
     
     public void eat() {

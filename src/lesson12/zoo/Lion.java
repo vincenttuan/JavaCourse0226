@@ -7,6 +7,7 @@ public class Lion extends Animal {
     public Lion() {
         setKind("獅子");
         setLegs(4);
+        ++count;
     }
 
     public void move() {

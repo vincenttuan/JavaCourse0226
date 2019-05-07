@@ -6,6 +6,7 @@ public class Fish extends Animal {
 
     public Fish() {
         setKind("魚");
+        ++count;
     }
 
     public void move() {

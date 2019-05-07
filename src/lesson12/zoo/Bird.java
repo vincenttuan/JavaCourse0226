@@ -7,6 +7,7 @@ public class Bird extends Animal {
     public Bird() {
         setKind("鳥");
         setLegs(2);
+        ++count;
     }
 
     @Override
