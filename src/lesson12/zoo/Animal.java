@@ -17,7 +17,7 @@ public class Animal {
     }
     
     public void move() {
-    
+        
     }
 
     public int getLegs() {

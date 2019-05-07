@@ -5,14 +5,15 @@ public class Lion extends Animal {
     private static int count;
 
     public Lion() {
-
+        setKind("獅子");
+        setLegs(4);
     }
 
     public void move() {
-
+        System.out.println("跑");
     }
 
-    static public int getCount() {
+    public static int getCount() {
         return count;
     }
 }
