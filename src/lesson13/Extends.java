@@ -3,6 +3,10 @@ package lesson13;
 class A {
 
     public A(int x) {
+        System.out.println("A" + x);
+    }
+    public A() {
+        this(10);
         System.out.println("A");
     }
     
@@ -10,8 +14,12 @@ class A {
 
 class B extends A{
 
+    public B(int x) {
+        //super();
+        System.out.println("B" + x);
+    }
     public B() {
-        super(0);
+        this(8);
         System.out.println("B");
     }
     
