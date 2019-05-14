@@ -1,6 +1,6 @@
 package lesson14;
 
-public class Shaba implements IDog {
+public class Shiba implements IDog {
 
     @Override
     public void eat() {
