@@ -11,5 +11,10 @@ public class Chihuahua extends ADog {
     public int getAvgLife() {
         return 10;
     }
+
+    @Override
+    public int getPower() {
+        return 1;
+    }
     
 }

@@ -12,4 +12,9 @@ public class EDog implements IDog {
         return 100;
     }
     
+    @Override
+    public int getPower() {
+        return 10;
+    }
+    
 }

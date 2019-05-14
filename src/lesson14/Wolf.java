@@ -12,4 +12,9 @@ public class Wolf extends ADog {
         return 15;
     }
     
+    @Override
+    public int getPower() {
+        return 5;
+    }
+    
 }

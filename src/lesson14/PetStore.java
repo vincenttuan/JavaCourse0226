@@ -17,6 +17,7 @@ public class PetStore {
         System.out.println(dog.getClass().getSimpleName() + " 有 " + IDog.legs + " 隻腳");
         dog.eat();
         System.out.println("速度:" + dog.speed());
+        System.out.println("狗力:" + dog.getPower());
         System.out.println("----------------");
     }
     
