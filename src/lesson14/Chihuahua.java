@@ -1,11 +1,6 @@
 package lesson14;
 
-public class Chihuahua implements IDog {
-
-    @Override
-    public void eat() {
-        System.out.println("狗飼料");
-    }
+public class Chihuahua extends ADog {
 
     @Override
     public int speed() {
