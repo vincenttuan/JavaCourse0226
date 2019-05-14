@@ -7,4 +7,8 @@ public class Shiba extends ADog {
         return 10;
     }
     
+    @Override
+    public int getAvgLife() {
+        return 12;
+    }
 }

@@ -7,4 +7,6 @@ public abstract class ADog implements IDog {
         System.out.println("狗飼料");
     }
     
+    public abstract int getAvgLife();
+    
 }

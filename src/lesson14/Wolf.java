@@ -7,4 +7,9 @@ public class Wolf extends ADog {
         return 30;
     }
     
+    @Override
+    public int getAvgLife() {
+        return 15;
+    }
+    
 }
