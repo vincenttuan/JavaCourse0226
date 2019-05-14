@@ -2,6 +2,7 @@ package army;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.IntStream;
 
 
 
@@ -11,6 +12,12 @@ public class Army {
     private List<Truck> trucks = new ArrayList<>();
 
     public Army(int fighterCount, int tankCount, int truckCount) {
+        
+        IntStream.range(0, fighterCount).forEach(i -> fighters.add(new Fighter()));
+        IntStream.range(0, tankCount).forEach(i -> tanks.add(new Tank()));
+        IntStream.range(0, truckCount).forEach(i -> trucks.add(new Truck()));
+        
+        /*
         for(int i=0;i<fighterCount;i++) {
             fighters.add(new Fighter());
         }
@@ -20,6 +27,7 @@ public class Army {
         for(int i=0;i<truckCount;i++) {
             trucks.add(new Truck());
         }
+        */
     }
     
     public void fighterPlay() {
