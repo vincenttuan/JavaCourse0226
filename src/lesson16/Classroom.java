@@ -12,5 +12,9 @@ public class Classroom {
         System.out.println(s2.getSum3());
         s1.copyRight();
         s2.copyRight();
+        System.out.println(s1.getSD());
+        System.out.println(s2.getSD());
+        System.out.println(s1.getSD2());
+        System.out.println(s2.getSD2());
     }
 }
