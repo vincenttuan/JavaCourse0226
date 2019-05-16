@@ -1,6 +1,6 @@
 package lesson15;
 
-public class Student implements IBMI{
+public class Student implements IBMI, IScore{
 
     @Override
     public double getHeight() {
@@ -10,6 +10,11 @@ public class Student implements IBMI{
     @Override
     public double getWeight() {
         return 60;
+    }
+
+    @Override
+    public int[] getScore() {
+        return new int[]{100, 90, 80, 70, 60};
     }
     
 }
