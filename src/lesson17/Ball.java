@@ -27,10 +27,23 @@ public class Ball {
 
     @Override
     public boolean equals(Object obj) {
-        Ball b2 = (Ball)obj;
-        return color.equals(b2.color) ? true : false;
+        if(obj instanceof Ball) {
+            Ball b2 = (Ball)obj;
+            return color.equals(b2.color) ? true : false;
+        } else {
+            return false;
+        }
+    }
+
+    @Override
+    public int hashCode() {
+        return 7 * 11 * color.hashCode();
     }
     
+    @Override
+    public String toString() {
+        return "Ball{" + "color=" + color + ", price=" + price + '}';
+    }
     
     
 }
