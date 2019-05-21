@@ -10,11 +10,15 @@ public class Manger {
     }
     
     public void print() {
+        int y3 = 2017;
         // 方法內部類別
         class Report {
+            int y2 = 2018;
             void show() {
                 int y = 2019;
                 System.out.println(y + "年報告");
+                System.out.println(this.y2 + "年報告");
+                System.out.println(y3 + "年報告");
             }
         }
         Report report = new Report();
