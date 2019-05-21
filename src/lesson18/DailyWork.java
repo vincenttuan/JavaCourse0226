@@ -9,5 +9,7 @@ public class DailyWork {
         Manger.Memner memner = manger.new Memner();
         memner.job();
         
+        manger.print();
+        
     }
 }
