@@ -3,24 +3,56 @@ package lesson20_exception;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class ReadScore {
+
     public static void main(String[] args) {
-        
-        File file = new File("src/lesson20_exception/score.txt");
+        read2();
+    }
+    
+    // try-catch-finally
+    public static void read() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("請輸入檔名 : ");
+        String fileName = input.nextLine();
+        File file = new File("src/lesson20_exception/" + fileName);
+        Scanner scanner = null;
         try {
-            Scanner scanner = new Scanner(file);
+            scanner = new Scanner(file);
             int sum = 0;
-            while(scanner.hasNextInt()) {
+            while (scanner.hasNextInt()) {
                 int x = scanner.nextInt();
                 sum += x;
             }
             System.out.println(sum);
         } catch (FileNotFoundException ex) {
-            Logger.getLogger(ReadScore.class.getName()).log(Level.SEVERE, null, ex);
+            System.out.println("檔案找不到");
+            read();
+        } finally {
+            if(scanner != null) {
+                System.out.println("檔案關閉");
+                scanner.close();
+            }
         }
+    }
+    
+    // try-with-resource
+    public static void read2() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("請輸入檔名 : ");
+        String fileName = input.nextLine();
+        File file = new File("src/lesson20_exception/" + fileName);
         
+        try(Scanner scanner = new Scanner(file)) {
+            int sum = 0;
+            while (scanner.hasNextInt()) {
+                int x = scanner.nextInt();
+                sum += x;
+            }
+            System.out.println(sum);
+        } catch (FileNotFoundException ex) {
+            System.out.println("檔案找不到");
+            read();
+        }
     }
 }
