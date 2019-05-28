@@ -1,6 +1,5 @@
 package lesson20_exception;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class InputDemo2 {
