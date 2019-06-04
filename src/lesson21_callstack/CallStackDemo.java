@@ -2,7 +2,20 @@ package lesson21_callstack;
 
 public class CallStackDemo {
     public static void main(String[] args) {
-        a();
+        try {
+            a();
+        } catch (Exception e) {
+            System.out.println(e); //e.toString()
+            System.out.println(e.getClass());
+            System.out.println(e.getMessage());
+            System.out.println("------------------------------");
+            for(StackTraceElement set : e.getStackTrace()) {
+                System.out.println(set);
+            }
+            System.out.println("------------------------------");
+            e.printStackTrace(System.out);
+        }
+        
     }
     
     public static void a() {
