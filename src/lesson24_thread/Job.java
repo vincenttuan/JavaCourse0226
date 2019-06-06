@@ -1,8 +1,5 @@
 package lesson24_thread;
 
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 public class Job extends Thread {
 
     @Override
