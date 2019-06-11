@@ -8,6 +8,5 @@ public class PlayRace {
         t2.setPriority(10);
         t1.start();
         t2.start();
-        
     }
 }
