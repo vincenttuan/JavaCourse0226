@@ -1,5 +1,8 @@
 package lesson28_thread;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 class Father extends Thread {
 
     @Override
@@ -10,6 +13,12 @@ class Father extends Thread {
         System.out.println("爸爸打電話叫瓦斯");
         Worker worker = new Worker();
         worker.start();
+        
+        try {
+            worker.join(10000);
+        } catch (InterruptedException ex) {
+        }
+        
         System.out.println("爸爸開始洗澡");
         System.out.println("爸爸洗完澡了");
     }
