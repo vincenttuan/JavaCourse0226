@@ -1,11 +1,10 @@
 package lesson30_wait_notify;
 
-public class Cookies {
-    
+public class Fish {
     private int nums;
-    private boolean empty = true; // 盤子是否是空的 ?
+    private boolean empty = true;
 
-    public Cookies(int nums) {
+    public Fish(int nums) {
         this.nums = nums;
     }
 
@@ -17,7 +16,7 @@ public class Cookies {
         while(!empty) {
             wait();
         }
-        System.out.printf("主人放第 %d 片餅乾\n", i);
+        System.out.printf("女主人放第 %d 片餅乾\n", i);
         empty = false;
         notifyAll();
     }
@@ -26,9 +25,8 @@ public class Cookies {
         while(empty) {
             wait();
         }
-        System.out.printf("小白狗吃了第 %d 片餅乾\n", i);
+        System.out.printf("小花貓吃了第 %d 片餅乾\n", i);
         empty = true;
         notifyAll();
     }
-    
 }
