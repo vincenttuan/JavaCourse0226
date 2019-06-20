@@ -6,8 +6,8 @@ import java.io.FileWriter;
 public class FileIO_Demo {
     static String path = "src/lesson38_io/demo.txt";
     public static void main(String[] args) {
-        //writer("Hello Java");
-        System.out.println(reader());
+        writer("Hello Java");
+        //System.out.println(reader());
     }
     
     public static void writer(String data) {
