@@ -12,6 +12,7 @@ public class ReadSalay {
             System.out.println(salary);
             
         } catch (Exception e) {
+            e.printStackTrace();
         }
         
         

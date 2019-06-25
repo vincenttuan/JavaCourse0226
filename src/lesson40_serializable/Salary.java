@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Salary implements Serializable {
     private String name;
-    private int money;
+    private transient int money;
 
     public String getName() {
         return name;

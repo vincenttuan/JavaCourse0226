@@ -6,8 +6,8 @@ import java.io.ObjectOutputStream;
 public class WriteSalary {
     public static void main(String[] args) {
         Salary salary = new Salary();
-        salary.setName("John");
-        salary.setMoney(80000);
+        salary.setName("Mary");
+        salary.setMoney(280000);
         
         try(FileOutputStream fos = new FileOutputStream("src/lesson40_serializable/serial.bin");
             ObjectOutputStream oos = new ObjectOutputStream(fos);) {
@@ -15,6 +15,7 @@ public class WriteSalary {
             oos.writeObject(salary);
             
         } catch (Exception e) {
+            e.printStackTrace();
         }
         
     }
