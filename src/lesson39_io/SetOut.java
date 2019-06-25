@@ -11,6 +11,7 @@ public class SetOut {
         try(FileOutputStream fos = new FileOutputStream("src/lesson39_io/answer.txt", true);
             BufferedOutputStream bos = new BufferedOutputStream(fos);
             PrintStream out = new PrintStream(bos);) {
+            
             System.setOut(out);
             System.out.println(10/2);
             System.out.println("Happy");
