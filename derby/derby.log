@@ -1,0 +1,31 @@
+Sat Jun 29 18:56:10 CST 2019 : Apache Derby 網路伺服器 - 10.10.2.0 - (1582446) 已啟動，並且準備接受連接埠 1527 上的連線
+----------------------------------------------------------------
+Sat Jun 29 18:56:10 CST 2019：
+ 正在使用類別載入器 sun.misc.Launcher$AppClassLoader@5e2de80c 啟動資料庫
+目錄 C:\Users\study\Documents\NetBeansProjects\Java0226\derby\test 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) 實例 a816c00e-016b-a2e0-bd46-fffffa037680
+載入自 file:/C:/Program%20Files/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-1-ojdkbuild-b10
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=C:\Users\study\Documents\NetBeansProjects\Java0226\derby
+已啟動「資料庫類別載入器」- derby.database.classpath= ''
+----------------------------------------------------------------
+Sat Jun 29 18:56:12 CST 2019：
+正在使用類別載入器 sun.misc.Launcher$AppClassLoader@5e2de80c 關閉資料庫目錄 C:\Users\study\Documents\NetBeansProjects\Java0226\derby\test 上的實例 a816c00e-016b-a2e0-bd46-fffffa037680
+Sat Jun 29 18:56:12 CST 2019 Thread[DRDAConnThread_2,5,main] (DATABASE = test), (DRDAID = {2}), 已關閉資料庫 'test'。
+----------------------------------------------------------------
+Sat Jun 29 18:56:16 CST 2019：
+ 正在使用類別載入器 sun.misc.Launcher$AppClassLoader@5e2de80c 啟動資料庫
+目錄 C:\Users\study\Documents\NetBeansProjects\Java0226\derby\test 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) 實例 ed8940a7-016b-a2e0-bd46-fffffa037680
+載入自 file:/C:/Program%20Files/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-1-ojdkbuild-b10
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=C:\Users\study\Documents\NetBeansProjects\Java0226\derby
+已啟動「資料庫類別載入器」- derby.database.classpath= ''
